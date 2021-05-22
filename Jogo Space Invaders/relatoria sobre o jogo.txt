@@ -1,0 +1,13 @@
+GRUPO: Flavimar da Silva Almeira
+       Vitor Henrique Ferreira de Brito
+
+TRABALHO SOBRE O JOGO
+
+
+ O jogo foi produzido atraves da biblioteca ALLEGRO 5 , na qual nos disponibiliza diversos recursos graficos que sao capazes de nos proporcionar a interação com o jogo.
+ Primeiramente fizemos pesquisas a respeito da biblioteca e buscamos video aulas que nos auxiliaram no desenvolvimento do projeto. 
+ O jogo é baseado no "Space Invaders" e atraves do teclado manusiando a arma com as teclas "RIGTH E LEFT" e atirando na tecla "SPACE" e possivel se movimentar e atirar no jogo onde atraves de funções os inimigos do jogo sao gerados aleatoriamente pela tela.
+ O jogo também possui um menu de interação onde o jogador pode escolher entre "COMEÇAR" a partida ou "SAIR DO JOGO" ou "SOBRE O JOGO"(em breve ficará pronto").
+ Gostamos muito desse trabalho, pois nos proporcionou aprender mais sobre outras bibliotecas e nos motivou a aprender a cade vez mais sobre programação.
+
+obs* OS DESIGNERS GRAFICOS FORAM DESENVOLVIDOS POR NOS MESMOS , POR ISSO FICARAM LINDOS.
